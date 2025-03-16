@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Nihar-Debnath/testing-2#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2"
   }
 }
