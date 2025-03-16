@@ -1,0 +1,24 @@
+{
+  "name": "testing-2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihar-Debnath/testing-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nihar-Debnath/testing-2/issues"
+  },
+  "homepage": "https://github.com/Nihar-Debnath/testing-2#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
